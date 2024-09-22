@@ -1,0 +1,16 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 600px) {
+  h2 {
+    font-size: 1.2rem;
+  }
+  button {
+    font-size: 0.8rem;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+}
